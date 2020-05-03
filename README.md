@@ -2,7 +2,8 @@
 ###### Aluno: Guilherme Medeiros Laureano
 ## Desafio 02: Conceitos do Node.js
 
-Nesse desafio, foi desenvolvido uma aplicação para fixar os conceitos Node.js aprendidos no Bootcamp GoStack Rocketseat - Nível 01.
+Nesse desafio, foi desenvolvido uma aplicação para fixar os conceitos em Node.js aprendidos no Bootcamp GoStack Rocketseat - Nível 01.
+
 O desenvolvimento se deu a partir de um [template](https://github.com/Rocketseat/gostack-template-conceitos-nodejs) disponibilizado pela Rocketseat.
 
 ### Sobre a aplicação
